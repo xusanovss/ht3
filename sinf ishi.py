@@ -1,3 +1,4 @@
+#start
 #1 vazifa
 class Odam:
     def __init__(self, ism):
@@ -34,3 +35,4 @@ odam1.kuylash()
 odam2.eshitish()
 odam2.gapirish(odam1.ism)
 #end code
+
