@@ -33,3 +33,4 @@ odam1.kuylash()
 
 odam2.eshitish()
 odam2.gapirish(odam1.ism)
+#end code
