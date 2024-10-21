@@ -38,3 +38,5 @@ odam2.gapirish(odam1.ism)
 
 #heloo
 #nyreuge
+
+print("Hello world")
